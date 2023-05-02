@@ -1,0 +1,23 @@
+ 
+ Difference between window and Document onjects: 
+
+ 
+ window object:
+
+ The window object represents a window in a browser.A Object of window created automatically by the browser. The window is the object of
+ browser, it is not a object of the javascript the Oject of javascript are string,array,data..ect.The window object properties are created inside the window object.In javascript all the available data are attached to the window 
+ object.We can access window objects property like window.propertyname where propertyname is the name of the property. The window object 
+ method refers to the functions created inside the window object which can be used to perform various action on the browser window such as 
+ how to display the message or get the input from the user.
+
+
+
+ Document object:
+
+ The Document object represents a whole html document.When the html document loaded in the browser it becomes  a document object.It is the
+ root element that represents a html document. It has properties and methods.we can add dynamic element to our web page.The Document Object
+ provides different collection elements, such as anchor and Links which helps you to count the number of specific elements on a form.Using 
+ the document object, you can access the elements of the form and validate the Input.
+
+
+
